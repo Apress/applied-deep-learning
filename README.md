@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Applied Deep Learning*](https://www.apress.com/9781484237892) by Umberto Michelucci (Apress, %pubyear%).
+This repository accompanies [*Applied Deep Learning*](https://www.apress.com/9781484237892) by Umberto Michelucci (Apress, 2018).
 
 [comment]: #cover
 ![Cover image](9781484237892.jpg)
