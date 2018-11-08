@@ -1,4 +1,4 @@
-# Errata for *Book Title*
+# Errata for *Applied Deep Learning by Umberto Michelucci*
 
 On **page xx** [Summary of error]:
  
