@@ -5,6 +5,11 @@ This repository accompanies [*Applied Deep Learning*](https://www.apress.com/978
 [comment]: #cover
 ![Cover image](9781484237892.jpg)
 
+## How to use the code
+To learn how to use the code plese check the file [HOWTO](https://github.com/Apress/applied-deep-learning/blob/master/HOWTO.md)
+
+## Download the repository
+
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
 ## Releases
