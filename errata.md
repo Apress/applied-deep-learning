@@ -6,6 +6,12 @@ At page 36 the second formula from above has at the end a "#(3)". It should not 
 
 ***
 
-On **page89** [Formulas are wrong]
+On **page 89** [Formulas are wrong]
 
 At page 89 two formulas have a mistake in it. In the formulas Z^[1] should be \hat Y^[1] and Z^[2] should be \hat Y^[2].
+
+***
+
+On **page 121** [number of observations is wrong]
+
+At line 10 on page 121 the number should be 1e6 and not 1e-6.
