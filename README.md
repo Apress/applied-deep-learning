@@ -5,6 +5,12 @@ This repository accompanies [*Applied Deep Learning*](https://www.apress.com/978
 [comment]: #cover
 ![Cover image](9781484237892.jpg)
 
+# Videos
+
+You can find videos covering additional advanced material on TOELT youtube channel here
+
+[TOELT Youtube Channel](https://goo.gl/vnWLTL)
+
 ## How to use the code
 To learn how to use the code plese check the file [HOWTO](https://github.com/Apress/applied-deep-learning/blob/master/HOWTO.md)
 
