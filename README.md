@@ -1,4 +1,6 @@
-# Apress Source Code
+# Applied Deep Learning - A case based approach - The Book
+
+![](https://img.shields.io/github/forks/apress/applied-deep-learning.svg?label=Fork)
 
 This repository accompanies [*Applied Deep Learning*](https://www.apress.com/9781484237892) by Umberto Michelucci ([Linkedin](https://www.linkedin.com/in/umbertomichelucci/)) (Apress, 2018).
 
