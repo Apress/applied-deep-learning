@@ -1,9 +1,10 @@
-# Applied Deep Learning - A case based approach - The Book
+# Applied Deep Learning - A case based approach - Book material
 
 ![](https://img.shields.io/github/forks/apress/applied-deep-learning.svg?label=Fork)
 ![](https://img.shields.io/github/stars/apress/applied-deep-learning.svg?label=Stars)
 ![](https://img.shields.io/github/watchers/apress/applied-deep-learning.svg?label=Watch)
 ![](https://img.shields.io/github/last-commit/apress/applied-deep-learning.svg)
+![](https://img.shields.io/maintenance/yes/2019.svg)
 
 This repository accompanies [*Applied Deep Learning*](https://www.apress.com/9781484237892) by Umberto Michelucci ([Linkedin](https://www.linkedin.com/in/umbertomichelucci/)) (Apress, 2018).
 
