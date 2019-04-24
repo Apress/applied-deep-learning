@@ -12,6 +12,12 @@ This repository accompanies [*Applied Deep Learning*](https://www.apress.com/978
 [comment]: #cover
 ![Cover image](9781484237892.jpg)
 
+# University course
+
+In case you are interested I updated heavily the material for the university course I am teaching at the University of Applied Science in Zürich based on the book. The material has been updated for the course and will not reflect as the one in this repository the book but will contain much additional material. You can find the course repository here
+
+![](https://github.com/michelucci/zhaw-dlcourse-spring2019)
+
 # Videos
 
 You can find videos covering additional advanced material on TOELT youtube channel here
